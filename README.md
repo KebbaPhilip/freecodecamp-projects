@@ -9,4 +9,5 @@ Projects:
 - Event Flyer Page
 - Greeting Card
 - Job Application Form
+- Contact Form
 - More projects coming soon...

@@ -8,4 +8,5 @@ Projects:
 - Blog Post Card
 - Event Flyer Page
 - Greeting Card
+- Job Application Form
 - More projects coming soon...

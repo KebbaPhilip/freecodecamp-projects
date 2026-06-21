@@ -6,4 +6,5 @@ Projects:
 
 - Todo list
 - Blog Post Card
+- Event Flyer Page
 - More projects coming soon...

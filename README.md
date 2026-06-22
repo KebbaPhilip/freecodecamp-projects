@@ -11,4 +11,5 @@ Projects:
 - Job Application Form
 - Contact Form
 - Feature Selection
+- Confidential Email page
 - More projects coming soon...

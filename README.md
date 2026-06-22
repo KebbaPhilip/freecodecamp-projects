@@ -10,4 +10,5 @@ Projects:
 - Greeting Card
 - Job Application Form
 - Contact Form
+- Feature Selection
 - More projects coming soon...

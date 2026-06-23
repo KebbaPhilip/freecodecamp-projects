@@ -13,4 +13,5 @@ Projects:
 - Feature Selection
 - Confidential Email Page
 - Pricing Plan Page
+- Newspaper Article Page
 - More projects coming soon...

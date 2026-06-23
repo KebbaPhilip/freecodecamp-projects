@@ -14,4 +14,5 @@ Projects:
 - Confidential Email Page
 - Pricing Plan Page
 - Newspaper Article Page
+- Tribute Page
 - More projects coming soon...

@@ -1,0 +1,86 @@
+* {
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.pricing-container {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-inline: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pricing-card {
+  background-color: rgb(230, 228, 228);
+  text-align: center;
+  display: flex;
+  list-style-type: none;
+  padding: 20px;
+
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 0 0 200px;
+}
+.basic-plan {
+  order: 0;
+}
+.pro-plan {
+  order: 1;
+  flex-grow: 2;
+}
+
+.premium-plan {
+  order: 2;
+}
+
+button {
+  background-color: rgb(73, 67, 65);
+  color: white;
+  margin-top: 2rem;
+  padding-block: 10px;
+  border-radius: 5px;
+}
+
+.price {
+  font-size: 2rem;
+  font-weight: bolder;
+  border-bottom: 2px solid black;
+  padding: 0px;
+}
+
+.wrong {
+  color: red;
+  font-weight: bold;
+}
+
+.correct {
+  color: rgb(24, 132, 24);
+  font-weight: bold;
+}
+
+p {
+  margin-top: 0;
+}
+li {
+  line-height: 1.7;
+}
+
+.pricing-card:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: rgb(24, 132, 24);
+  text-decoration: underline;
+}

@@ -15,4 +15,5 @@ Projects:
 - Pricing Plan Page
 - Newspaper Article Page
 - Tribute Page
+- Quiz Webpage
 - More projects coming soon...
